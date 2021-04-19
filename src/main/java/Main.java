@@ -9,6 +9,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println(TypeEnum.TEST.getCode()+","+TypeEnum.TEST.getMsg());
         System.out.println(TypeEnum.TEST2.getCode()+","+TypeEnum.TEST2.getMsg());
+        System.out.println("测试分支");
     }
 
 //    public static void main(String[] args) {
